@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrhman Salem</h1>
-<h3 align="center">I am Abdelrahman Salem from Egypt. A passionate MEAN Developer. I am a Computer Engineering student at ACU, and I provide technical support in a student activity team called "SADEE" (Scientific ِAssociation of the Department of Electrical Engineering), and I am skilled in HTML, CSS, Bootstrap, JavaScript, Typescript, Angular, React, and Node.js. I am working hard to improve my skills. I am searching for a position as a junior front-end developer (Angular) in an established company.</h3>
+<h3 align="center">I am Abdelrahman Salem from Egypt. A passionate MEAN Developer. I am a Computer Engineering student at ACU, and I provide technical support in a student activity team called "SADEE" (Scientific ِAssociation of the Department of Electrical Engineering), and I am skilled in HTML, CSS, Bootstrap, JavaScript, Typescript, Angular, React, and Node.js. I am working hard to improve my skills. I am searching for a position as a junior front-end developer (React) in an established company.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdo-salem9982&label=Profile%20views&color=0e75b6&style=flat" alt="abdo-salem9982" /> </p>
 
